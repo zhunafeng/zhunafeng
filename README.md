@@ -1,4 +1,4 @@
-![](https://stayrelevant.globant.com/wp-content/uploads/2020/02/reactive-programming-in-backend-languages.png)
+![](https://media.wired.co.uk/photos/606d9b367aff197af7c72a2f/master/w_1600%2Cc_limit/wired-uk-android-tips-1.jpg)
 
 This is **ZHU**
 
